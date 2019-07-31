@@ -11,7 +11,7 @@ const link = {
   textDecoration: 'none',
   color: 'white',
 }
- 
+
 /* add the navbar component */
 const Navbar = () =>
   <div>
@@ -43,7 +43,7 @@ const Navbar = () =>
       }}
     >Login</NavLink>
   </div>;
-  
+
 const Home = () => {
   return (
     <div>
